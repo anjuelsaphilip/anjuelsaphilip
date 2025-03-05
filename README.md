@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi :wave: I am Anju Elsa Philip
 
-<!--
-**anjuelsaphilip/anjuelsaphilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Tester
 
-Here are some ideas to get you started:
+* I am a B.Tech Graduate in the stream of Electronics and Communications Engineering, with over 4 years of experience in the field of Software Testing. 
+* I am working for Zyxware Technologies,since August 2020.
+* I am certified in Software Testing and Scrum Foundation. 
+* I have experience in Manual Testing including Functional testing(Smoke Testing, System Testing, Retesting, Regression Testing, Sanity Testing).
+* I have experienece in Non Functional Testing(Performance Testing, Security Testing, Accessibility Testing, SEO Testing). 
+* I have experience in Automation testing using Selenium web driver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me
+  
+  [Linkedin](https://www.linkedin.com/in/anjuelsaphilip/)
