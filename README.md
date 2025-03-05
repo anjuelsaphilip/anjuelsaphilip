@@ -12,3 +12,17 @@
 ## How to reach me
   
   [Linkedin](https://www.linkedin.com/in/anjuelsaphilip/)
+
+## I'm familar with 
+
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://jmeter.apache.org/images/jmeter.png" height="40" alt="jmeter logo"  />
+  <img width="12" />
+
+  </div>
